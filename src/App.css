@@ -41,7 +41,10 @@ button{
 }
 
 @media (min-width:600px){
-  
+  .App {
+    margin:0 auto;
+    width: 50%;
+  }
   .phone{
     width:28rem;
   }
