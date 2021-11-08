@@ -1,6 +1,6 @@
 .App {
   margin:0 auto;
-  width: 50%;
+  width: 80%;
   text-align: center;
   background-color: #0061f2;
   display:inline-block;
@@ -57,8 +57,6 @@ button{
 @media (min-width:1200px)
 {
   .App{
-    margin:0 auto;
-  width: 80%;
     display:flex;
   }
   .phone{
